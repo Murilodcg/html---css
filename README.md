@@ -13,7 +13,7 @@ Não existe um limite!
 </p>
 
 <ul>
-    <a href='Exercicios/desafio012/index.html' target='_blank'>Cordel Mordeno</a>
+    <a href='https://murilodcg.github.io/projeto-cordel/' target='_blank'>Cordel Mordeno</a>
 </ul>
 
 <ul>
