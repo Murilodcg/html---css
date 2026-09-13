@@ -3,13 +3,13 @@
 <h1>Me chamo Murilo Neves.</h1>
 
 <p>
-    Ola,
+    Olá!
 
-    Aqui estão por hora todos os meus arquivos que desenvolvi em html.
+Aqui estão, por hora, todos os meus arquivos que desenvolvi em HTML.
 
-    Creio ser um acervo de arquivos pequeno ainda pois sou um desenvolvedor iniciante, porem minha meta é deixar isso mais completo, acompanhand assim minha carreira/jornada no mundo de desemvolvimento web e em outras linguagens de programação tambem.
+Creio ser um acervo de arquivos pequeno ainda, pois sou um desenvolvedor iniciante, porém minha meta é deixar isso mais completo, acompanhando assim minha carreira/jornada no mundo de desenvolvimento web e em outras linguagens de programação também.
 
-    O ceu é o limite!
+Não existe um limite!
 </p>
 
 <ul>
